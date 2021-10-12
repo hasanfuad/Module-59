@@ -33,4 +33,4 @@ console.log(phone1);
 
 const tab1 = new Tab("iPad", 20000, "iPad mini 2");
 
-    console.log(tab1);
+    console.log(tab1.eatingCharge());
