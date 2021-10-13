@@ -9,3 +9,4 @@ Animal.prototype.talk = function(){
 const myCat = new Animal("Cat");
 console.log(myCat);
 myCat.talk();
+console.log(myCat.name);
